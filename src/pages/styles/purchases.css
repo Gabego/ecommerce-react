@@ -1,0 +1,18 @@
+.purchases {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.purchases__title {
+  font-weight: 800;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.purchases__container {
+  padding: 10px;
+  max-width: 900px
+}

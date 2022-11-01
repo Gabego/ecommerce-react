@@ -1,0 +1,12 @@
+.form__sign-up {
+  gap: 5px
+}
+
+.form__sign-up input {
+  display: block;
+  max-width: 500px;
+  padding: 6px 8px;
+  margin-top: 4px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 3px;
+}
